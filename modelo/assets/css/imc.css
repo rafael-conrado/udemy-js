@@ -13,3 +13,12 @@ form button{
     background-color: rgb(41, 230, 104);
     
 }
+.paragrafoResultado{
+    background-color: blue;
+    padding: 10px 20px;
+}
+.paragrafoVazio{
+    background-color: red;
+    padding: 10px 20px;
+
+}
