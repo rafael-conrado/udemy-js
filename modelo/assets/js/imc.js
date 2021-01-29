@@ -1,6 +1,6 @@
 //captura do formulario
 const form = document.querySelector('#formulario');
-//'observou' o ebvendo do submit e cancelou a ação do form de atualizar sozinho
+//'observou' o evendo do submit e cancelou a ação do form de atualizar sozinho
 form.addEventListener('submit', function (e) {
     e.preventDefault();
     //receber dados dos inputs

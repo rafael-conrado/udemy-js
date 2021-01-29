@@ -1,0 +1,14 @@
+body {
+    background:#F4D35E;
+}
+
+#data {
+    background: #ebebd3;
+    color: #083d77;
+    margin: 15px 10px 25px 35px;
+}
+
+#data h1 {
+    text-align: center;
+    padding: 25px;
+}
