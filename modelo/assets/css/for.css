@@ -1,0 +1,15 @@
+body {
+background-color: #b7b5b3;
+color: #6b2b06dc;
+}
+
+#criado{
+    background-color: #b80c0998 ;
+   width: 50%;
+   padding: 5% ;
+   text-align: center;
+   align-items: center;
+   border-radius: 35px;
+   margin: 3% 3%;
+   color: #141301 ;
+}
