@@ -59,7 +59,7 @@
  
 
  resultadoDia.innerHTML = `${diaDaSemana(diaSemana)}, ${data.getDay()}
- de ${editaMes(data.getUTCMonth() + 1)} de ${data.getFullYear()} agora são ${data.getHours()}:${data.getUTCMinutes()} `
+ de ${editaMes(data.getUTCMonth() )} de ${data.getFullYear()} agora são ${data.getHours()}:${data.getUTCMinutes()} `
 console.log(typeof(diaSemana))
 
  // metodo aprendido na correção
