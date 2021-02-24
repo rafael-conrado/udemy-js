@@ -11,9 +11,12 @@ function calcular(altura2, largura2) {
     const altura = Number(inputAltura.value);
     const largura = Number(inputLargura.value);
     resultado.innerHTML = ''
-    !altura || !largura ? alert("error, um ou mais valores inválidos") : altura < largura ? resultado.innerHTML = "Paisagem" : resultado.innerHTML = "Retrato"
+    !altura || !largura ? alert("error, um ou mais valores inválidos") : altura < largura ? resultado.innerHTML = `Paisagem ${true}` : resultado.innerHTML = `Retrato ${false}`
     
 
 
 
 }
+
+
+//const ePaisagem = (largura,altura) =>largura>altura;
